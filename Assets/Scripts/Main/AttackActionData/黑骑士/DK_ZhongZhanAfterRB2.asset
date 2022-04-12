@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b2d97bd77fdafa547a73984673b8d468, type: 3}
+  m_Name: DK_ZhongZhanAfterRB2
+  m_EditorClassIdentifier: 
+  attackActionName: DK_ZhongZhanAfterRB2
+  canFirstAttack: 0
+  priorityLevel: 2
+  hitLevel: 2
+  attackType: 2
+  hitCount: 1
+  inputBufferKeys: 
+  openAttackColliderTime: 0
+  closeAttackColliderTime: 0
+  openRotateTime: 0
+  closeRotateTime: 0
+  startAttackBackTime: 0
+  maxRotateAngle: 0
+  animTrigger:
+    animTypeName: 
+    attackAnimationClip: {fileID: 2207850806306222022, guid: 1800cb9e30850b34fa85a8354b3b930f, type: 3}
+    speedValue: 0
+    transValue: 0
+    defenseValue: 0
+  nextAttackActionNames:
+  - DK_RB2AfterZhongZhan

@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1dee74423aafd945aed18c5abc3859e, type: 3}
+  m_Name: DKLocomotionAsset
+  m_EditorClassIdentifier: 
+  type: 1
+  singleHand:
+  - type: 0
+    clip: {fileID: 2207850806306222022, guid: 2aa38c432331ad74d8b960feaa8dce2e, type: 3}
+  - type: 1
+    clip: {fileID: 2207850806306222022, guid: 6d52b76c02ddc6444ac81e63d6783238, type: 3}
+  - type: 2
+    clip: {fileID: 2207850806306222022, guid: 38e92e55d468d3b4e9efcd8969e01eec, type: 3}
+  - type: 3
+    clip: {fileID: 2207850806306222022, guid: 5a23e8c098d84764f8749b85cd9c18d7, type: 3}
+  - type: 4
+    clip: {fileID: 2207850806306222022, guid: 7996c05d3ca87a9419652d5cf3eb3041, type: 3}
+  - type: 5
+    clip: {fileID: 2207850806306222022, guid: c4ca23e1ca8f25445bc209b7758283c1, type: 3}
+  - type: 10
+    clip: {fileID: 2207850806306222022, guid: fd7b499fbafef7b4485aacc150668263, type: 3}
+  - type: 11
+    clip: {fileID: 2207850806306222022, guid: 22beed7ef8fa4ea47aee88c15e2c57c6, type: 3}
+  - type: 12
+    clip: {fileID: 2207850806306222022, guid: 5a2f1fb790564d44e97b415211575426, type: 3}
+  - type: 21
+    clip: {fileID: 2207850806306222022, guid: 197eb5cdfc3cdc64b9ac06196107e8ac, type: 3}
+  - type: 22
+    clip: {fileID: 2207850806306222022, guid: e9905c50310953b48842ade520029135, type: 3}
+  - type: 23
+    clip: {fileID: 2207850806306222022, guid: 1cd1eb1e61528bd46ae3d0c14d459027, type: 3}
+  - type: 24
+    clip: {fileID: 2207850806306222022, guid: 7166d851d1ff8f64cbc7ac763e4b043a, type: 3}
+  bothHand: []
+  escape:
+  - type: 15
+    clip: {fileID: 2207850806306222022, guid: 5db0e6e1ccba9fe42b53cff2f2ac1404, type: 3}
+  - type: 16
+    clip: {fileID: 2207850806306222022, guid: d45ba8dccf84e4f44a1cd98cf532171a, type: 3}
+  - type: 17
+    clip: {fileID: 2207850806306222022, guid: 3a461eaa7f7434142bb55374c74e5ed4, type: 3}

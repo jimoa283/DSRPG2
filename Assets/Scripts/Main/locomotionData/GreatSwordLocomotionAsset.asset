@@ -1,0 +1,92 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1dee74423aafd945aed18c5abc3859e, type: 3}
+  m_Name: GreatSwordLocomotionAsset
+  m_EditorClassIdentifier: 
+  type: 1
+  singleHand:
+  - type: 0
+    clip: {fileID: 2207850806306222022, guid: 8b15a88dd5527344fbe7058244f697c8, type: 3}
+  - type: 1
+    clip: {fileID: 2207850806306222022, guid: 02cad01663b5e89408f336a1387a4af4, type: 3}
+  - type: 2
+    clip: {fileID: 2207850806306222022, guid: cb1909d5318368e4c91fda069738891b, type: 3}
+  - type: 3
+    clip: {fileID: 2207850806306222022, guid: aecbf453ec55d144c827741a9a7647cb, type: 3}
+  - type: 4
+    clip: {fileID: 2207850806306222022, guid: d84630e0239f5f54fb05979d4073c716, type: 3}
+  - type: 5
+    clip: {fileID: 2207850806306222022, guid: 4eeb0e500513d67418e09a9b3970e07b, type: 3}
+  - type: 6
+    clip: {fileID: 2207850806306222022, guid: e584037c5b92c7747b44c1aaa6a5d385, type: 3}
+  - type: 7
+    clip: {fileID: 2207850806306222022, guid: 9998e7f92dc25144ba4d93a8baae5dce, type: 3}
+  - type: 8
+    clip: {fileID: 2207850806306222022, guid: 0af1b47ca709fa248bd4b74a235e0e5d, type: 3}
+  - type: 9
+    clip: {fileID: 2207850806306222022, guid: ca2394e7c440e1a4697e85d4facb7d11, type: 3}
+  - type: 21
+    clip: {fileID: 2207850806306222022, guid: f0158da44c989584aa42c42fa46f49cc, type: 3}
+  - type: 0
+    clip: {fileID: 2207850806306222022, guid: ff93c08ca28b5d44480da32271da713b, type: 3}
+  - type: 10
+    clip: {fileID: 2207850806306222022, guid: 41f1beb17a2e14549a7e744bbe8c2ff2, type: 3}
+  - type: 11
+    clip: {fileID: 2207850806306222022, guid: 368c8024c608a0b4f9a264aeb02a018b, type: 3}
+  - type: 12
+    clip: {fileID: 2207850806306222022, guid: 53f30ac0d169f2548ae4874761018d78, type: 3}
+  - type: 13
+    clip: {fileID: 2207850806306222022, guid: ba30513b97358bd4db176aef7a441fa6, type: 3}
+  bothHand:
+  - type: 0
+    clip: {fileID: 2207850806306222022, guid: 335bf600393caef46969d3d14c0185ca, type: 3}
+  - type: 1
+    clip: {fileID: 2207850806306222022, guid: d15ca3fe0e17dc64db81cdc4132b5f0f, type: 3}
+  - type: 2
+    clip: {fileID: 2207850806306222022, guid: 462dd8dbd662cee48ba9aac7dc44b4eb, type: 3}
+  - type: 3
+    clip: {fileID: 2207850806306222022, guid: 5ee5007e00051d04a96a8f113e280491, type: 3}
+  - type: 4
+    clip: {fileID: 2207850806306222022, guid: 98bde1430a9ca394384fefb70703c029, type: 3}
+  - type: 5
+    clip: {fileID: 2207850806306222022, guid: 8c6b2e737e832574a969bf7a6bfe8160, type: 3}
+  - type: 6
+    clip: {fileID: 2207850806306222022, guid: d05e45d018abaf0408599e1a3d9fb75f, type: 3}
+  - type: 7
+    clip: {fileID: 2207850806306222022, guid: 5399f7a71259bc74d924be6639e2ce67, type: 3}
+  - type: 8
+    clip: {fileID: 2207850806306222022, guid: 31cede46da7604447b8de12681ee100f, type: 3}
+  - type: 9
+    clip: {fileID: 2207850806306222022, guid: a92a52a43add7fc49a941d9ae8dbb069, type: 3}
+  - type: 21
+    clip: {fileID: 2207850806306222022, guid: 3218db0abed4b3c42923bce6b3a365fb, type: 3}
+  - type: 22
+    clip: {fileID: 2207850806306222022, guid: cb747267c68af704899967f8d044d80b, type: 3}
+  - type: 10
+    clip: {fileID: 2207850806306222022, guid: 721eb807d8ec9c04d81dd82cb23c4054, type: 3}
+  - type: 11
+    clip: {fileID: 2207850806306222022, guid: 65e89bbe5ed5ab7449af1378b5f6b0f2, type: 3}
+  - type: 12
+    clip: {fileID: 2207850806306222022, guid: a5485c6a3cd80724e8ba303ad78459a5, type: 3}
+  - type: 13
+    clip: {fileID: 2207850806306222022, guid: 1d55070d617df874b8ed52347450de06, type: 3}
+  escape:
+  - type: 14
+    clip: {fileID: 2207850806306222022, guid: e31d8409f9b077b41878a49471b6e0d7, type: 3}
+  - type: 15
+    clip: {fileID: 2207850806306222022, guid: f85fbb5ecbbe6bf45ae5919de8de08a9, type: 3}
+  - type: 16
+    clip: {fileID: 2207850806306222022, guid: c5bed4f7489d53b4b85f3327de10ec5e, type: 3}
+  - type: 17
+    clip: {fileID: 2207850806306222022, guid: 705b66684aa208149af7a6907fbfa514, type: 3}
+  - type: 18
+    clip: {fileID: 2207850806306222022, guid: 74ffe32cc7115b745962acd89e543972, type: 3}
